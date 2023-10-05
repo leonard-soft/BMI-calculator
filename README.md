@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## 💻 installation 💻
 
-The steps are very simple for the installation of this project.
+The steps are very simple for the installation of this project.Obviously you must have angular installed :)
 1) `$ git clone https://github.com/leonard-soft/BMI-calculator.git`.
 2) `$ cd BMI-calculator`.
 3) `$ ng serve`
