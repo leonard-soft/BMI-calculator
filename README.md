@@ -6,6 +6,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## 💻 installation 💻
 
+The steps are very simple for the installation of this project.
+1) `$ git clone https://github.com/leonard-soft/BMI-calculator.git`.
+2) `$ cd BMI-calculator`.
+3) `$ ng serve`
+
+   
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
