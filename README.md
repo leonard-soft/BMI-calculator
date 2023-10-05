@@ -1,6 +1,8 @@
-# IMC
+# BMI-CALC
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4. BMI Calc is a web application designed with the Google Angular framework. whose function is to calculate a person's BMI using their weight and height.
+
+It should be noted that it was designed in order to practice and strengthen knowledge of frontend web development.
 
 ## Development server
 
