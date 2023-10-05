@@ -1,0 +1,28 @@
+<mat-card class="card">
+    <mat-card-content>
+        <h3 align="center">tool to calculate a person's BMI</h3>
+    </mat-card-content>
+</mat-card> <br>
+
+<div class="container"> <br>
+
+    <h3 align="center">Enter your weight and height to calculate your BMI, in this case the weight should not exceed 120 kg and the height 210 cm.</h3>
+
+    <form> <br> <br>
+         <div class="input-group">
+            <div class="col-lg-5 space inputs">
+                <input id="weight" class="form-control" type="text" placeholder="weight">
+            </div>
+            <div class="col-lg-5 space inputs">
+               <input id="height" class="form-control" type="text" placeholder="height">
+           </div>
+         </div> <br> <br> <br>
+
+         <div>
+            <button class="button" type="button" mat-raised-button color="primary" (click)="calculate()">Calculate</button>
+         </div>
+    </form>
+
+</div> <br> <br>
+
+

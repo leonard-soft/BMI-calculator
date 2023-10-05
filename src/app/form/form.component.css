@@ -1,0 +1,223 @@
+.card {
+    background-color:#E5E8E8;
+    border-color: black;
+    width: 1000px;
+    display: block;
+    margin: auto;
+}
+
+.container {
+    width: 1300px;
+    height: 380px;
+    background-color: #D7BDE2;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+}
+
+.color {
+    background-color: #FDEDEC;
+}
+
+.space {
+    margin: 0 60px;
+}
+
+.button {
+    display: block;
+    margin: 0 auto;
+    width: 260px;
+}
+
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+
+@media screen and (max-width:1244px) {
+    .space {
+        margin: 0 50px;
+    }
+}
+
+@media screen and (max-width:1008px) {
+    .space {
+        margin: 0 40px;
+    }
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 914px;
+        display: block;
+        margin: auto;
+    }    
+}
+
+@media screen and (max-width:932px) {
+    .space {
+        margin: 0 38px;
+    }
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 814px;
+        display: block;
+        margin: auto;
+    }    
+}
+
+@media screen and (max-width:840px) {
+    .space {
+        margin: 0 36px;
+    }
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 700px;
+        display: block;
+        margin: auto;
+    }    
+}
+
+@media screen and (max-width:756px) {
+    .space {
+        margin: 0 20px;
+    }
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 600px;
+        display: block;
+        margin: auto;
+    }    
+}
+
+@media screen and (max-width:620px) {
+    .space {
+        margin: 0 10px;
+    }
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 500px;
+        display: block;
+        margin: auto;
+    }    
+}
+
+@media screen and (max-width:620px) {
+    input {
+        width: 250px;
+        margin: 15px auto;
+    }
+    .inputs {
+        width: 100%;
+    }
+    .space {
+        margin: 0 5px;
+    }
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 500px;
+        display: block;
+        margin: auto;
+    } 
+    .container {
+        display: block;
+        margin: auto;
+        width: 400px;
+        height: 430px;
+    }   
+}
+
+@media screen and (max-width:519px) {
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 400px;
+        display: block;
+        margin: auto;
+    } 
+
+}
+
+@media screen and (max-width:443px) {
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 350px;
+        display: block;
+        margin: auto;
+    } 
+    .container {
+        display: block;
+        margin: auto;
+        width: 380px;
+        height: 430px;
+    }   
+}
+
+@media screen and (max-width:395px) {
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 330px;
+        display: block;
+        margin: auto;
+    } 
+    .container {
+        display: block;
+        margin: auto;
+        width: 330px;
+        height: 410px;
+    }   
+}
+
+@media screen and (max-width:347px) {
+    input {
+        width: 220px;
+        margin: 10px auto;
+    }
+    .button {
+        width: 230px;
+    }
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 270px;
+        display: block;
+        margin: auto;
+    } 
+    .container {
+        display: block;
+        margin: auto;
+        width: 270px;
+        height: 420px;
+    }   
+}
+
+@media screen and (max-width:347px) {
+    input {
+        width: 200px;
+        margin: 10px auto;
+    }
+    .button {
+        width: 200px;
+    }
+    .card {
+        background-color:#E5E8E8;
+        border-color: black;
+        width: 240px;
+        display: block;
+        margin: auto;
+    } 
+    .container {
+        display: block;
+        margin: auto;
+        width: 240px;
+        height: 460px;
+    }   
+}
