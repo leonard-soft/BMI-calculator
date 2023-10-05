@@ -8,7 +8,7 @@ site link: https://bmi-calculator-apps.netlify.app/
 
 ## 💻 installation 💻
 
-The steps are very simple for the installation of this project.Obviously you must have angular installed :)
+The steps are very simple for the installation of this project. Obviously you must have angular installed :)
 1) `$ git clone https://github.com/leonard-soft/BMI-calculator.git`.
 2) `$ cd BMI-calculator`.
 3) `$ npm install`.
