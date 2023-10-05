@@ -18,6 +18,8 @@ The steps are very simple for the installation of this project.Obviously you mus
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+<img src="https://code.visualstudio.com/assets/docs/nodejs/angular/Welcome-to-app.png"> <br>
+
 ## 🤖 Code scaffolding 🤖
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
